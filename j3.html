@@ -1,0 +1,23 @@
+<html>
+<body>
+   <form>
+         enter number:
+            <input type="text" id="t1"> <br>
+         <input type="button" value="sum" onclick="d_s()">
+    </form>
+</body>
+</html>
+     <script>
+        function d_s()
+         {
+       var n=document.getElementById("t1").value;
+            s=0;
+         while(n>0)
+      {
+         d=n%10;
+         s=s+d;
+         n=parseInt(n/10);
+}
+            document.write("sum="+s);
+}
+</script>

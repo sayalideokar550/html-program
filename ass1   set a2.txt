@@ -1,0 +1,12 @@
+<html>
+     <head>
+         <title> formula</title>
+     </head>
+     <body bgcolor="pink">
+         <h1 align="center" >
+        <font color="green">a<sub>0</sub>+a<sub>1</sub>x <sup> 1 </sup>
+           x <sup> 1 </sup> +a<sub>2</sub>x<sup> 2 </sup></marquee>
+              <h1 align="center">+a<sub>3</sub>x<sup> 3 </sup>
+             +a<sub>4</sub>x<sup> 4 </sup></font></h1></h1>
+   </body>
+</html>
